@@ -1,2 +1,2 @@
 # MappingCrimeinSF
-utilized python (folium package) to visualize crime data points in San Francisco
+I utilized python, specifically folium, to visualize crime data points in San Francisco
